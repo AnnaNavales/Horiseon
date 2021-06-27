@@ -5,7 +5,7 @@ Refactor an existing webpage to make it accessible.
 ![screenshot of the project in the browser](./assets/images/screenshot.png)
 
 ## Demo
-[Live Demo]() 
+[Live Demo](https://annanavales.github.io/Horiseon/) 
 
 ## Acceptance Criteria:
 - Webpage meets accessibility standards
